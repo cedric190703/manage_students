@@ -2,17 +2,17 @@
 This project is a tool that allows the management of students in C and SQL.
 
 # Project requirements :
-## Create groups
-## Listing groups
-## Deleting groups
-## Viewing groups details
-## Transfering students to 2 differents groups
-## Adding students to a group
-## Viewing students details
-## Updating students info
-## Deleting students from a group
-## Listing students
-## Listing students from different groups
+### Create groups
+### Listing groups
+### Deleting groups
+### Viewing groups details
+### Transfering students to 2 differents groups
+### Adding students to a group
+### Viewing students details
+### Updating students info
+### Deleting students from a group
+### Listing students
+### Listing students from different groups
 
 Structure of the project :
 <pre>
