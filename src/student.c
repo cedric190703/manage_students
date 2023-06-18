@@ -1,9 +1,6 @@
 #include "../include/student.h"
 
-int createTableStudent(sqlite3* db, const char* tableName, const char* columns) {
-    // TODO
-}
-
+// Same type of implementation as the group directory
 int insertStudents(sqlite3* db, const char* tableName, const char* values) {
     // TODO
 }

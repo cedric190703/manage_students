@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sqlite3.h>
+#include <string.h>
 
 int createGroup(sqlite3* db, const char* tableName, const char* columns);
 int deleteGroup(sqlite3* db, const char* tableName);

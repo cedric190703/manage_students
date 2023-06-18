@@ -22,21 +22,17 @@ Structure of the project :
 ├── include
 │   ├── database.h
 │   ├── group.h
-│   ├── student.h
-│   ├── ui.h
-│   └── utils.h
+│   └── student.h
 ├── Makefile
 ├── README.md
-├── src
-│   ├── database.c
-│   ├── group.c
-│   ├── main.c
-│   ├── student.c
-│   └── utils.c
-└── UI
-    └── ui.c
+└── src
+    ├── database.c
+    ├── group.c
+    ├── main.c
+    └── student.c
 
-4 directories, 14 files
+3 directories, 10 files
+
 </pre>
 
 <hr>
